@@ -1,8 +1,7 @@
 ---
-title: "Draft example"
+title: https://sites.google.com/view/thanhtrong
 date: 2020-10-14T16:34:00.000Z
-image: /images/butler.jpg
+image: ""
 draft: true
 ---
-
-This is a draft.
+<https://sites.google.com/view/thanhtrong>
